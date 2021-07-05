@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = migenevieve@gmail.com
+	name = Genevieve Michaud
